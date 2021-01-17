@@ -1,7 +1,7 @@
 defmodule App.Weather.Test do
   use ExUnit.Case, async: true
 
- @api "http://api.openweathermap.org/data/2.5/weather?q="
+  @api "http://api.openweathermap.org/data/2.5/weather?q="
 
 test "should return a encoded endpoint whe take a location" do
 appid = App.Weather.get_appid()
