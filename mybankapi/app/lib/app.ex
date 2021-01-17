@@ -1,6 +1,6 @@
-defmodule Mybankapi do
+defmodule App do
   @moduledoc """
-  Documentation for `Mybankapi`.
+  Documentation for `App`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Mybankapi do
 
   ## Examples
 
-      iex> Mybankapi.hello()
+      iex> App.hello()
       :world
 
   """

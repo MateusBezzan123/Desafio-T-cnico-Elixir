@@ -1,21 +1,21 @@
-# Mybankapi
+# App
 
 **TODO: Add description**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `mybankapi` to your list of dependencies in `mix.exs`:
+by adding `app` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:mybankapi, "~> 0.1.0"}
+    {:app, "~> 0.1.0"}
   ]
 end
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/mybankapi](https://hexdocs.pm/mybankapi).
+be found at [https://hexdocs.pm/app](https://hexdocs.pm/app).
 

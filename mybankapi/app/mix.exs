@@ -1,9 +1,9 @@
-defmodule Mybankapi.MixProject do
+defmodule App.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :mybankapi,
+      app: :app,
       version: "0.1.0",
       elixir: "~> 1.11",
       start_permanent: Mix.env() == :prod,
